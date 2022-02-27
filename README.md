@@ -4,6 +4,8 @@
 
 如果有想要补充的新条目，或者删去过时条目，欢迎提交Issue或者提交PullRequest！
 
+每个工具都使用了【XXXX】来标注使用的语言，其中【SELENIUM】指使用了selenium包的python程序，而【PYTHON】指不使用selenium的程序。两者的区别是，标有【PYTHON】的程序更加花费编程者的心血，通常占用更低，效率更高，适配性更广。
+
 ### 网关登录
 
 - [GitHub - buaahub/BeihangLogin](https://github.com/buaahub/BeihangLogin)【BASH】由buaahub提供的bash实现的脚本
@@ -24,6 +26,12 @@
 
 ### 教务系统
 
+#### 选课脚本
+
+- [GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档
+
+- [GitHub - Cauchy1412/BUAAGetCourse: 用来蹲北航教务给课程扩容的名额，解放双手双眼](https://github.com/Cauchy1412/BUAAGetCourse) 【SELENIUM】【NO DOC】
+
 #### 一键评教
 
 - [GitHub - fondoger/buaa-teacher-evaluation: 北航教务一键评教。](https://github.com/fondoger/buaa-teacher-evaluation)【PYTHON】
@@ -31,6 +39,8 @@
 - [GitHub - APassbyDreg/BUAA_JW_Utils: 北航教务辅助脚本工具集](https://github.com/APassbyDreg/BUAA_JW_Utils)【SELENIUM】
 
 #### 其他工具
+
+- https://github.com/wzk1015/BUAA-getscore 【PYTHON】每分钟刷新本学期GPA，若发生变化（即有课程）则一分钟内自动发送邮件至邮箱。
 
 - [GitHub - SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend: 北航教务小助手-后端（Python Web、爬虫）](https://github.com/SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend) 【DJANGO】软工项目，提供许多针对教务网站的工具
 
