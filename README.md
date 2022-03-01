@@ -84,6 +84,8 @@
 
 ### 每日打卡
 
+- [GitHub - zackertypical/buaa_daily_check](https://github.com/zackertypical/buaa_daily_check) 【JAVASCRIPT】运行于iOS设备上的全自动定时打卡脚本，有详细的教程。
+
 - [GitHub - windiboy/BUAAAutoUpdate: 北京航空航天大学自动报平安脚本](https://github.com/windiboy/BUAAAutoUpdate)【PYTHON】
 
 - [GitHub - mottled233/buaa_daily_report: 北航每日健康打卡自动化脚本，我不做人了！](https://github.com/mottled233/buaa_daily_report)【SELENIUM】
