@@ -22,6 +22,8 @@
 
 - [GitHub - Dr-Bluemond/srun: 北京航空航天大学校园网命令行登录工具，多系统支持](https://github.com/Dr-Bluemond/srun) 【GO】支持多平台原生运行，无需安装依赖，具有登录、登出、查询用量的功能
 
+- [GitHub - lqh9856/BUAALogin: 北航校园网自动登录](https://github.com/lqh9856/BUAALogin)【PYTHON】额外提供了systemd的配置文件和教程，适用于Linux系统
+
 - [GitHub - KuiyuanFu/PythonBuaaGWAutoLogin](https://github.com/KuiyuanFu/PythonBuaaGWAutoLogin) 【SELENIUM】
 
 ### 教务系统
@@ -85,6 +87,8 @@
 ### 每日打卡
 
 - [GitHub - zackertypical/buaa_daily_check](https://github.com/zackertypical/buaa_daily_check) 【JAVASCRIPT】运行于iOS设备上的全自动定时打卡脚本，有详细的教程。
+
+- [GitHub - SnapdragonLee/BUAA_AutoCheck: 北航健康打卡自动脚本](https://github.com/SnapdragonLee/BUAA_AutoCheck) 【JAVASCRIPT】【PYTHON】另一个运行于iOS设备上的打卡脚本，还有一个Python脚本。
 
 - [GitHub - windiboy/BUAAAutoUpdate: 北京航空航天大学自动报平安脚本](https://github.com/windiboy/BUAAAutoUpdate)【PYTHON】
 
