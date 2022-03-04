@@ -68,6 +68,8 @@
 
 ### 基物实验系统
 
+- [基物实验小程序](https://www.wzk.plus/project/phyexp/) 基物实验操作指南、注意事项、评价等
+
 - [Gitee - PhisicsExperiment/PhysicsExperiment: 基物实验通用程序](https://gitee.com/PhisicsExperiment/PhysicsExperiment) 【PYTHON】自动处理实验数据生成实验报告
 
 - [GitHub - violencemofrog/BUAA_Physical_Experiment: fucking buaa physical experiment](https://github.com/violencemofrog/BUAA_Physical_Experiment) 【PDF】基物实验报告
