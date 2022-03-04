@@ -44,17 +44,19 @@
 
 - https://github.com/wzk1015/BUAA-getscore 【PYTHON】每分钟刷新本学期GPA，若发生变化（即有课程）则一分钟内自动发送邮件至邮箱。
 
-- [GitHub - SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend: 北航教务小助手-后端（Python Web、爬虫）](https://github.com/SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend) 【DJANGO】软工项目，提供许多针对教务网站的工具
+- [GitHub - roife/BUAAIcsGen: Automatically generate *.ics files for classes](https://github.com/roife/BUAAIcsGen) 【PYTHON】一个从教务自动爬取课表，并转换成 ICS 文件的小工具，可以导入到系统日历中。
 
 - [GitHub - roife/BUAACalendarHelper: A tiny iOS app for fetching classes from BUAA. (course assignment for BUAA-Swift)](https://github.com/roife/BUAACalendarHelper) 【SWIFT】iOS版教务课表查询、导入到系统日历
 
 - https://github.com/yinwoods/Fuck-BUAA-JiaoWu-Anyway 【PYTHON】
 
+- [GitHub - SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend: 北航教务小助手-后端（Python Web、爬虫）](https://github.com/SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend) 【DJANGO】软工项目，提供许多针对教务网站的工具
+
 ### 博雅系统
 
-- [GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档
-
 - [GitHub - Dr-Bluemond/BuaaBykcCrawler: 北航博雅课程Python爬虫接口](https://github.com/Dr-Bluemond/BuaaBykcCrawler)【PYTHON】
+
+- [GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档
 
 - [GitHub - Chenrt-ggx/BUAABYKCCrawler-: query bykc preview info as well as selection info for buaaers](https://github.com/Chenrt-ggx/BUAABYKCCrawler-)【PYTHON】
 
