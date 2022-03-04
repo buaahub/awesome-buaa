@@ -68,6 +68,8 @@
 
 ### 基物实验系统
 
+- [Gitee - PhisicsExperiment/PhysicsExperiment: 基物实验通用程序](https://gitee.com/PhisicsExperiment/PhysicsExperiment) 【PYTHON】自动处理实验数据生成实验报告
+
 - [GitHub - violencemofrog/BUAA_Physical_Experiment: fucking buaa physical experiment](https://github.com/violencemofrog/BUAA_Physical_Experiment) 【PDF】基物实验报告
 
 - [GitHub - Horatio2001/BUAA-PhysicsExp: 北航基础物理实验报告2019版](https://github.com/Horatio2001/BUAA-PhysicsExp) 【PDF】基物实验报告
