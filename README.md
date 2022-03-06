@@ -108,6 +108,8 @@
 
 - [GitHub - karin0/jumpserver-proxy: 在本地愉快写 BUAA OS Lab，并直接在本地使用 git 提交。](https://github.com/karin0/jumpserver-proxy)【GO】面向”操作系统课程设计“的工具，穿透堡垒机直接访问git仓库
 
+- [GitHub - dhy2000/CG-Submit](https://github.com/dhy2000/CG-Submit)【PYTHON】希冀 (CourseGrading) 平台作业文件提交工具，适用于六系编译技术实验与信息大类数据结构
+
 ### 课程中心相关
 
 暂无
