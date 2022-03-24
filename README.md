@@ -66,23 +66,7 @@
 
 ### TD查询
 
-- [GitHub - Chenrt-ggx/BUAATDCrawler: query td times for buaaers](https://github.com/Chenrt-ggx/BUAATDCrawler)【PYTHON】
-
-### 基物实验系统
-
-- [基物实验小程序](https://www.wzk.plus/project/phyexp/) 基物实验操作指南、注意事项、评价等
-
-- [Gitee - PhisicsExperiment/PhysicsExperiment: 基物实验通用程序](https://gitee.com/PhisicsExperiment/PhysicsExperiment) 【PYTHON】自动处理实验数据生成实验报告
-
-- [GitHub - violencemofrog/BUAA_Physical_Experiment: fucking buaa physical experiment](https://github.com/violencemofrog/BUAA_Physical_Experiment) 【PDF】基物实验报告
-
-- [GitHub - Horatio2001/BUAA-PhysicsExp: 北航基础物理实验报告2019版](https://github.com/Horatio2001/BUAA-PhysicsExp) 【PDF】基物实验报告
-
-- [GitHub - wtdcode/BUAAPhyhelper: Some helpful scripts for the physics experiments at BUAA.](https://github.com/wtdcode/BUAAPhyhelper) 【MATLAB-PYTHON】辅助工具
-
-- [GitHub - wwlyeye/PhysicalExperimentSelector: 北航 基础物理实验 基物实验 抢课脚本](https://github.com/wwlyeye/PhysicalExperimentSelector)【PYTHON】
-
-- [GitHub - qgjyf2001/queryJiwu: 北航基物实验选课脚本](https://github.com/qgjyf2001/queryJiwu)【PYTHON】
+- ~[GitHub - Chenrt-ggx/BUAATDCrawler: query td times for buaaers](https://github.com/Chenrt-ggx/BUAATDCrawler)【PYTHON】~
 
 ### ihome
 
@@ -103,6 +87,21 @@
 ### 电表查询
 
 - [GitHub - Apodead/BuaaAmmeterBot: 北航电表查询 Telegram Bot](https://github.com/Apodead/BuaaAmmeterBot)【PYTHON】
+
+### 基物实验
+
+- [基物实验小程序](https://www.wzk.plus/project/phyexp/) 基物实验操作指南、注意事项、评价等
+- [Gitee - PhisicsExperiment/PhysicsExperiment: 基物实验通用程序](https://gitee.com/PhisicsExperiment/PhysicsExperiment) 【PYTHON】自动处理实验数据生成实验报告
+- [GitHub - violencemofrog/BUAA_Physical_Experiment: fucking buaa physical experiment](https://github.com/violencemofrog/BUAA_Physical_Experiment) 【PDF】基物实验报告
+- [GitHub - Horatio2001/BUAA-PhysicsExp: 北航基础物理实验报告2019版](https://github.com/Horatio2001/BUAA-PhysicsExp) 【PDF】基物实验报告
+- [GitHub - wtdcode/BUAAPhyhelper: Some helpful scripts for the physics experiments at BUAA.](https://github.com/wtdcode/BUAAPhyhelper) 【MATLAB-PYTHON】辅助工具
+- [GitHub - wwlyeye/PhysicalExperimentSelector: 北航 基础物理实验 基物实验 抢课脚本](https://github.com/wwlyeye/PhysicalExperimentSelector)【PYTHON】
+- [GitHub - qgjyf2001/queryJiwu: 北航基物实验选课脚本](https://github.com/qgjyf2001/queryJiwu)【PYTHON】
+
+### 航空航天概论
+
+-  [GitHub - Caniformia/HangGai: HangGai for BUAA, built with SwiftUI.](https://github.com/Caniformia/HangGai) 【SWIFT】iOS版航概刷题软件
+- 微信小程序搜索“航概练习题库”
 
 ### 六系工具
 
