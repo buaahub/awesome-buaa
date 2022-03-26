@@ -36,7 +36,7 @@
 
 #### 一键评教
 
-- [GitHub - fondoger/buaa-teacher-evaluation: 北航教务一键评教。](https://github.com/fondoger/buaa-teacher-evaluation)【PYTHON】
+- [GitHub - bearbattle/buaa-teacher-evaluation: 北航教务一键评教。](https://github.com/bearbattle/buaa-teacher-evaluation)【PYTHON】
 
 - [GitHub - APassbyDreg/BUAA_JW_Utils: 北航教务辅助脚本工具集](https://github.com/APassbyDreg/BUAA_JW_Utils)【SELENIUM】
 
@@ -100,7 +100,7 @@
 
 ### 航空航天概论
 
--  [GitHub - Caniformia/HangGai: HangGai for BUAA, built with SwiftUI.](https://github.com/Caniformia/HangGai) 【SWIFT】iOS版航概刷题软件
+- [GitHub - Caniformia/HangGai: HangGai for BUAA, built with SwiftUI.](https://github.com/Caniformia/HangGai) 【SWIFT】iOS版航概刷题软件
 - 微信小程序搜索“航概练习题库”
 
 ### 六系工具
