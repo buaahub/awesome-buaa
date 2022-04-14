@@ -103,6 +103,10 @@
 - [GitHub - Caniformia/HangGai: HangGai for BUAA, built with SwiftUI.](https://github.com/Caniformia/HangGai) 【SWIFT】iOS版航概刷题软件
 - 微信小程序搜索“航概练习题库”
 
+### 北航网盘
+
+- [GitHub - xdedss/dist_bhpan: 北航网盘命令行工具](https://github.com/xdedss/dist_bhpan)
+
 ### 六系工具
 
 - [GitHub - karin0/jumpserver-proxy: 在本地愉快写 BUAA OS Lab，并直接在本地使用 git 提交。](https://github.com/karin0/jumpserver-proxy)【GO】面向”操作系统课程设计“的工具，穿透堡垒机直接访问git仓库
