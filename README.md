@@ -105,7 +105,7 @@
 
 ### 北航网盘
 
-- [GitHub - xdedss/dist_bhpan: 北航网盘命令行工具](https://github.com/xdedss/dist_bhpan)
+- [GitHub - xdedss/dist_bhpan: 北航网盘命令行工具](https://github.com/xdedss/dist_bhpan) 【PYTHON】
 
 ### 六系工具
 
