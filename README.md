@@ -129,5 +129,7 @@
 
 暂无
 
-### 核酸检测排队情况
+### 核酸检测
+
 - [BUAA核酸检测排队实时查询](https://jinshuju.net/f/C8F4x3)
+- [GitHub - Muyiyunzi/BUAA_HSYY: 北航核酸检测预约（金数据问卷）自动填写脚本](https://github.com/Muyiyunzi/BUAA_HSYY)【SELENIUM】
