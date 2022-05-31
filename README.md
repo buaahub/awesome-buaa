@@ -74,6 +74,10 @@
 
 - https://github.com/shiyake/php-ihome  【PHP】ihome网站源码
 
+### 校内服务
+- http://gitlab.buaamc2.net:8081/ 【gitlab私有化版】
+- [北航内网梯子实现全段免流量+自动切换翻墙代理](https://github.com/ywz978020607/History/tree/master/cv%E7%A0%94%E7%A9%B6%E7%94%9F%E6%97%A5%E5%B8%B8Lab/v2ray%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC/%E5%86%85%E7%BD%91%E6%A2%AF%E5%AD%90)
+
 ### 每日打卡
 
 - [GitHub - zackertypical/buaa_daily_check](https://github.com/zackertypical/buaa_daily_check) 【JAVASCRIPT】运行于iOS设备上的全自动定时打卡脚本，有详细的教程。
