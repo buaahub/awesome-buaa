@@ -8,6 +8,8 @@
 
 ### 网关登录
 
+- [Github - BeihangLoginWithDockerCheck](https://github.com/ywz978020607/pySrun4k_BeihangLogin)【Python】支持python登陆&docker一键部署+自动监控重连
+
 - [GitHub - buaahub/BeihangLogin](https://github.com/buaahub/BeihangLogin)【BASH】由buaahub提供的bash实现的脚本
   
   - [GitHub - SincereXIA/buaa-login: 北航 BUAA-WIFI 登录脚本 for OpenWrt](https://github.com/SincereXIA/buaa-login)
