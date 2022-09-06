@@ -42,15 +42,19 @@
 
 - [GitHub - APassbyDreg/BUAA_JW_Utils: 北航教务辅助脚本工具集](https://github.com/APassbyDreg/BUAA_JW_Utils)【SELENIUM】
 
-#### 其他工具
+#### 查询成绩
 
-- https://github.com/wzk1015/BUAA-getscore 【PYTHON】每分钟刷新本学期GPA，若发生变化（即有课程）则一分钟内自动发送邮件至邮箱。
+- [GitHub - wzk1015/BUAA-getscore](https://github.com/wzk1015/BUAA-getscore) 【PYTHON】每分钟刷新本学期GPA，若发生变化（即有课程）则一分钟内自动发送邮件至邮箱。
+
+- [AutoQueryScore/score.py at main · Cptzzzzz/AutoQueryScore · GitHub](https://github.com/Cptzzzzz/AutoQueryScore/blob/main/score.py) 【PYTHON】可以使用账号密码登录的自动查询成绩脚本。
+
+#### 其他工具
 
 - [GitHub - roife/BUAAIcsGen: Automatically generate *.ics files for classes](https://github.com/roife/BUAAIcsGen) 【PYTHON】一个从教务自动爬取课表，并转换成 ICS 文件的小工具，可以导入到系统日历中。
 
 - [GitHub - roife/BUAACalendarHelper: A tiny iOS app for fetching classes from BUAA. (course assignment for BUAA-Swift)](https://github.com/roife/BUAACalendarHelper) 【SWIFT】iOS版教务课表查询、导入到系统日历
 
-- https://github.com/yinwoods/Fuck-BUAA-JiaoWu-Anyway 【PYTHON】
+- https://github.com/yinwoods/Fuck-BUAA-JiaoWu-Anyway 【PYTHON】关于教务的脚本若干
 
 - [GitHub - SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend: 北航教务小助手-后端（Python Web、爬虫）](https://github.com/SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend) 【DJANGO】软工项目，提供许多针对教务网站的工具
 
