@@ -1,14 +1,22 @@
 # awesome-buaa
 
+[TOC]
+
 收集整理优秀的工具，免去造轮子的痛苦
 
 如果有想要补充的新条目，或者删去过时条目，欢迎提交Issue或者提交PullRequest！
 
-每个工具都使用了【XXXX】来标注使用的语言，其中【SELENIUM】指使用了selenium包的python程序，而【PYTHON】指不使用selenium的程序。两者的区别是，标有【PYTHON】的程序更加花费编程者的心血，通常占用更低，效率更高，适配性更广。
+每个工具都使用了【XXXX】来标注使用的语言，其中【SELENIUM】指使用了selenium包的python程序，而【PYTHON】指不使用selenium的程序。两者的区别是，标有【PYTHON】的程序通常使用requests包访问网络，通常效率更高，系统兼容性更好。
+
+某些脚本可能违反了学校相关规定。Use at your own risk!
+
+### 【置顶】
+
+- [GitHub - Chenrt-ggx/BUAAInsignificantUtils: Bykc Select, Course Select, TD Query, Traffic Query](https://github.com/Chenrt-ggx/BUAAInsignificantUtils) 【PYTHON】Chenrt哥哥的一大堆脚本。
 
 ### 网关登录
 
-- [Github - BeihangLoginWithDockerCheck](https://github.com/ywz978020607/pySrun4k_BeihangLogin)【Python】支持python登陆&docker一键部署+自动监控重连
+- [Github - BeihangLoginWithDockerCheck](https://github.com/ywz978020607/pySrun4k_BeihangLogin)【PYTHON】支持python登陆&docker一键部署+自动监控重连
 
 - [GitHub - buaahub/BeihangLogin](https://github.com/buaahub/BeihangLogin)【BASH】由buaahub提供的bash实现的脚本
   
@@ -64,15 +72,13 @@
 
 - [GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档
 
-- ~[GitHub - Chenrt-ggx/BUAABYKCCrawler-: query bykc preview info as well as selection info for buaaers](https://github.com/Chenrt-ggx/BUAABYKCCrawler-)【PYTHON】~
-
 - [GitHub - Eadral/buaa-bykc](https://github.com/Eadral/buaa-bykc)【SELENIUM】
 
 - [GitHub - wendingp/boya-hunter: 北航博雅自动刷课](https://github.com/wendingp/boya-hunter)【SELENIUM】
 
 ### TD查询
 
-- ~[GitHub - Chenrt-ggx/BUAATDCrawler: query td times for buaaers](https://github.com/Chenrt-ggx/BUAATDCrawler)【PYTHON】~
+- [GitHub - Chenrt-ggx/BUAAInsignificantUtils: Bykc Select, Course Select, TD Query, Traffic Query](https://github.com/Chenrt-ggx/BUAAInsignificantUtils) 【PYTHON】Chenrt哥哥的一大堆脚本。
 
 ### ihome
 
@@ -84,9 +90,13 @@
 
 - [GitHub - zackertypical/buaa_daily_check](https://github.com/zackertypical/buaa_daily_check) 【JAVASCRIPT】运行于iOS设备上的全自动定时打卡脚本，有详细的教程。
 
+- [GitHub - Cydiater/buaa-daily-checkin: Scripts that deployed to Cloudflare Worker as a Telegram bot to help you checkin BUAA daily health report.](https://github.com/Cydiater/buaa-daily-checkin) 【TYPESCRIPT】运行在Cloudflare Worker上的自动打卡脚本，使用Telegram bot通知和交互。
+
 - [GitHub - SnapdragonLee/BUAA_AutoCheck: 北航健康打卡自动脚本](https://github.com/SnapdragonLee/BUAA_AutoCheck) 【JAVASCRIPT】【PYTHON】另一个运行于iOS设备上的打卡脚本，还有一个Python脚本。
 
 - [GitHub - windiboy/BUAAAutoUpdate: 北京航空航天大学自动报平安脚本](https://github.com/windiboy/BUAAAutoUpdate)【PYTHON】
+
+- [GitHub - SAGIRI-kawaii/buaa-covid-19-report: Automatically submit BUAA COVID-19 statistics / 自动填报北航 COVID-19 疫情信息](https://github.com/SAGIRI-kawaii/buaa-covid-19-report) 【PYTHON】另一个打卡脚本
 
 - [GitHub - mottled233/buaa_daily_report: 北航每日健康打卡自动化脚本，我不做人了！](https://github.com/mottled233/buaa_daily_report)【SELENIUM】
 
