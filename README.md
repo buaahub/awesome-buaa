@@ -36,6 +36,8 @@
 
 - [GitHub - KuiyuanFu/PythonBuaaGWAutoLogin](https://github.com/KuiyuanFu/PythonBuaaGWAutoLogin) 【SELENIUM】
 
+- [GitHub - Izumiko/buaalogin: 使用Nim语言编写的北航校园网客户端](https://github.com/Izumiko/buaalogin)【NIM】
+
 ### 教务系统
 
 #### 选课脚本
@@ -56,11 +58,15 @@
 
 - [AutoQueryScore/score.py at main · Cptzzzzz/AutoQueryScore · GitHub](https://github.com/Cptzzzzz/AutoQueryScore/blob/main/score.py) 【PYTHON】可以使用账号密码登录的自动查询成绩脚本。
 
+- [GitHub - hjc-owo/BUAA_Get_Score: 北航自动查分脚本](https://github.com/hjc-owo/BUAA_Get_Score)【PYTHON】北航自动查分脚本
+
 #### 其他工具
 
 - [GitHub - roife/BUAAIcsGen: Automatically generate *.ics files for classes](https://github.com/roife/BUAAIcsGen) 【PYTHON】一个从教务自动爬取课表，并转换成 ICS 文件的小工具，可以导入到系统日历中。
 
 - [GitHub - roife/BUAACalendarHelper: A tiny iOS app for fetching classes from BUAA. (course assignment for BUAA-Swift)](https://github.com/roife/BUAACalendarHelper) 【SWIFT】iOS版教务课表查询、导入到系统日历
+
+- [GitHub - Bhipee/BeiHangPostgraduateTimetable: 北航研究生课程表导出ics文件脚本，方便导入日历](https://github.com/Bhipee/BeiHangPostgraduateTimetable)【PYTHON】
 
 - https://github.com/yinwoods/Fuck-BUAA-JiaoWu-Anyway 【PYTHON】关于教务的脚本若干
 
@@ -89,6 +95,7 @@
 ### 电表查询
 
 - [GitHub - Apodead/BuaaAmmeterBot: 北航电表查询 Telegram Bot](https://github.com/Apodead/BuaaAmmeterBot)【PYTHON】
+- [GitHub - LaciliaExe/BUAA-ECC: BUAA electricity charge checker on Android / 北航电费查询器（安卓平台）](https://github.com/LaciliaExe/BUAA-ECC)【PYTHON&KVLANG】
 
 ### 基物实验
 
@@ -130,8 +137,3 @@
 ### 图书馆相关
 
 暂无
-
-### 核酸检测
-
-- [BUAA核酸检测排队实时查询](https://jinshuju.net/f/C8F4x3)
-- [GitHub - Muyiyunzi/BUAA_HSYY: 北航核酸检测预约（金数据问卷）自动填写脚本](https://github.com/Muyiyunzi/BUAA_HSYY)【SELENIUM】
