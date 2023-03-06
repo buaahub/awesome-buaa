@@ -86,20 +86,6 @@
 
 - https://github.com/shiyake/php-ihome  【PHP】ihome网站源码
 
-### 每日打卡
-
-- [GitHub - zackertypical/buaa_daily_check](https://github.com/zackertypical/buaa_daily_check) 【JAVASCRIPT】运行于iOS设备上的全自动定时打卡脚本，有详细的教程。
-
-- [GitHub - Cydiater/buaa-daily-checkin: Scripts that deployed to Cloudflare Worker as a Telegram bot to help you checkin BUAA daily health report.](https://github.com/Cydiater/buaa-daily-checkin) 【TYPESCRIPT】运行在Cloudflare Worker上的自动打卡脚本，使用Telegram bot通知和交互。
-
-- [GitHub - SnapdragonLee/BUAA_AutoCheck: 北航健康打卡自动脚本](https://github.com/SnapdragonLee/BUAA_AutoCheck) 【JAVASCRIPT】【PYTHON】另一个运行于iOS设备上的打卡脚本，还有一个Python脚本。
-
-- [GitHub - windiboy/BUAAAutoUpdate: 北京航空航天大学自动报平安脚本](https://github.com/windiboy/BUAAAutoUpdate)【PYTHON】
-
-- [GitHub - SAGIRI-kawaii/buaa-covid-19-report: Automatically submit BUAA COVID-19 statistics / 自动填报北航 COVID-19 疫情信息](https://github.com/SAGIRI-kawaii/buaa-covid-19-report) 【PYTHON】另一个打卡脚本
-
-- [GitHub - mottled233/buaa_daily_report: 北航每日健康打卡自动化脚本，我不做人了！](https://github.com/mottled233/buaa_daily_report)【SELENIUM】
-
 ### 电表查询
 
 - [GitHub - Apodead/BuaaAmmeterBot: 北航电表查询 Telegram Bot](https://github.com/Apodead/BuaaAmmeterBot)【PYTHON】
