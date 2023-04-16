@@ -134,7 +134,7 @@
 
 ### 课程中心相关
 
-暂无
+- [Github - FuryMartin/BUAA-SpocHelper](https://github.com/FuryMartin/BUAA-SpocHelper) 【WinUI 3 应用】优雅地查看并提交 Spoc 作业，应用已上架至 [微软商店](https://apps.microsoft.com/store/detail/spoc-%E5%8A%A9%E6%89%8B/9PM0GCZ6ZD53?launch=true&mode=full) 
 
 ### 图书馆相关
 
