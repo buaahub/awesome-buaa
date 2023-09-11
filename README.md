@@ -42,6 +42,8 @@
 
 #### 选课脚本
 
+- [GitHub - Colorfulshadow/buaa_course_enrollment: 旨在自动化北京航空航天大学（BUAA）的课程选课过程。](https://github.com/Colorfulshadow/buaa_course_enrollment)【PYTHON】选课、抢课，有说明注视以及使用文档
+
 - [GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档
 
 - [GitHub - Cauchy1412/BUAAGetCourse: 用来蹲北航教务给课程扩容的名额，解放双手双眼](https://github.com/Cauchy1412/BUAAGetCourse) 【PYTHON】具有使用说明注释和文档
