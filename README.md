@@ -10,10 +10,6 @@
 
 某些脚本可能违反了学校相关规定。Use at your own risk!
 
-### 【置顶】
-
-- [GitHub - Chenrt-ggx/BUAAInsignificantUtils: Bykc Select, Course Select, TD Query, Traffic Query](https://github.com/Chenrt-ggx/BUAAInsignificantUtils) 【PYTHON】Chenrt哥哥的一大堆脚本。
-
 ### 网关登录
 
 - [Github - BeihangLoginWithDockerCheck](https://github.com/ywz978020607/pySrun4k_BeihangLogin)【PYTHON】支持python登陆&docker一键部署+自动监控重连
@@ -46,8 +42,6 @@
 
 - [GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档
 
-- [GitHub - Cauchy1412/BUAAGetCourse: 用来蹲北航教务给课程扩容的名额，解放双手双眼](https://github.com/Cauchy1412/BUAAGetCourse) 【PYTHON】具有使用说明注释和文档
-
 #### 一键评教
 
 - [GitHub - bearbattle/buaa-teacher-evaluation: 北航教务一键评教。](https://github.com/bearbattle/buaa-teacher-evaluation)【PYTHON】
@@ -57,8 +51,6 @@
 #### 查询成绩
 
 - [GitHub - wzk1015/BUAA-getscore](https://github.com/wzk1015/BUAA-getscore) 【PYTHON】每分钟刷新本学期GPA，若发生变化（即有课程）则一分钟内自动发送邮件至邮箱。
-
-- [AutoQueryScore/score.py at main · Cptzzzzz/AutoQueryScore · GitHub](https://github.com/Cptzzzzz/AutoQueryScore/blob/main/score.py) 【PYTHON】可以使用账号密码登录的自动查询成绩脚本。
 
 - [GitHub - hjc-owo/BUAA_Get_Score: 北航自动查分脚本](https://github.com/hjc-owo/BUAA_Get_Score)【PYTHON】北航自动查分脚本
 
@@ -76,25 +68,21 @@
 
 ### 博雅系统
 
-- [GitHub - Dr-Bluemond/BuaaBykcCrawler: 北航博雅课程Python爬虫接口](https://github.com/Dr-Bluemond/BuaaBykcCrawler)【PYTHON】
+- ~~[GitHub - Dr-Bluemond/BuaaBykcCrawler: 北航博雅课程Python爬虫接口](https://github.com/Dr-Bluemond/BuaaBykcCrawler)【PYTHON】~~
 
-- [GitHub - Dr-Bluemond/BykcTelegramBot](https://github.com/Dr-Bluemond/BykcTelegramBot)  【PYTHON】北航博雅课程在TelegramBot平台上实现的小助手。
+- ~~[GitHub - Dr-Bluemond/BykcTelegramBot](https://github.com/Dr-Bluemond/BykcTelegramBot)  【PYTHON】北航博雅课程在TelegramBot平台上实现的小助手。~~
 
-- [GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档
+- ~~[GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档~~
 
 - ~~[GitHub - Eadral/buaa-bykc](https://github.com/Eadral/buaa-bykc)【SELENIUM】~~
 
 - ~~[GitHub - wendingp/boya-hunter: 北航博雅自动刷课](https://github.com/wendingp/boya-hunter)【SELENIUM】~~
 
-### TD查询
-
-- [GitHub - Chenrt-ggx/BUAAInsignificantUtils: Bykc Select, Course Select, TD Query, Traffic Query](https://github.com/Chenrt-ggx/BUAAInsignificantUtils) 【PYTHON】Chenrt哥哥的一大堆脚本。
-
 ### ihome
 
 - https://github.com/buaahub/ihome-crawler 【PYTHON】TG频道ihome forwarder内核脚本
 
-- https://github.com/shiyake/php-ihome  【PHP】ihome网站源码
+- https://github.com/shiyake/php-ihome  【PHP】旧版ihome网站源码
 
 ### 电表查询
 
@@ -133,11 +121,3 @@
 - [GitHub - HoBeedzc/CreditCount: 八系一般专业课学分核算工具，助你顺利毕业。](https://github.com/HoBeedzc/CreditCount) 【JAVASCRIPT】八系一般专业课学分核算工具。可以直接访问网页版 [学分核算](https://cc.hobeedzc.cn) 
 
 - [GitHub - grandchicken/1708SEM_ISIM: 八系信管专业课程攻略](https://github.com/grandchicken/1708SEM_ISIM) 【RICHTEXT】八系信管专业课程资料整理，持续更新ing...
-
-### 课程中心相关
-
-- [Github - FuryMartin/BUAA-SpocHelper](https://github.com/FuryMartin/BUAA-SpocHelper) 【WinUI 3 应用】优雅地查看并提交 Spoc 作业，应用已上架至 [微软商店](https://apps.microsoft.com/store/detail/spoc-%E5%8A%A9%E6%89%8B/9PM0GCZ6ZD53?launch=true&mode=full) 
-
-### 图书馆相关
-
-暂无
