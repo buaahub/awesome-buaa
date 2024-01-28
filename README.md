@@ -54,6 +54,8 @@
 
 - [GitHub - hjc-owo/BUAA_Get_Score: 北航自动查分脚本](https://github.com/hjc-owo/BUAA_Get_Score)【PYTHON】北航自动查分脚本
 
+- [GitHub - PhantomPower82/buaa-get-score: BUAA 自动查分](https://github.com/PhantomPower82/buaa-get-score)【PYTHON】BUAA 自动查分
+
 #### 其他工具
 
 - [GitHub - roife/BUAAIcsGen: Automatically generate *.ics files for classes](https://github.com/roife/BUAAIcsGen) 【PYTHON】一个从教务自动爬取课表，并转换成 ICS 文件的小工具，可以导入到系统日历中。
@@ -67,6 +69,8 @@
 - [GitHub - SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend: 北航教务小助手-后端（Python Web、爬虫）](https://github.com/SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend) 【DJANGO】软工项目，提供许多针对教务网站的工具
 
 ### 博雅系统
+
+- 目前博雅系统认证方式更新，暂无脚本跟进适配。
 
 - ~~[GitHub - Dr-Bluemond/BuaaBykcCrawler: 北航博雅课程Python爬虫接口](https://github.com/Dr-Bluemond/BuaaBykcCrawler)【PYTHON】~~
 
@@ -108,7 +112,13 @@
 
 - [GitHub - xdedss/dist_bhpan: 北航网盘命令行工具](https://github.com/xdedss/dist_bhpan) 【PYTHON】
 
+### 三系工具
+
+- [GitHub - AccSrd/BUAA_Course_Automation: 北京航空航天大学自动化专业课程资料 BUAA Course Material of Major in Automation](https://github.com/AccSrd/BUAA_Course_Automation)【RICHTEXT】
+
 ### 六系工具
+
+- [GitHub - TheBloodthirster/BUAA_Course_Sharing: 北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing) 【RICHTEXT】
 
 - [GitHub - karin0/jumpserver-proxy: 在本地愉快写 BUAA OS Lab，并直接在本地使用 git 提交。](https://github.com/karin0/jumpserver-proxy)【GO】面向”操作系统课程设计“的工具，穿透堡垒机直接访问git仓库
 
