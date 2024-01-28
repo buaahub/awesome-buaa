@@ -70,11 +70,7 @@
 
 ### 博雅系统
 
-- 目前博雅系统认证方式更新，暂无脚本跟进适配。
-
-- ~~[GitHub - Dr-Bluemond/BuaaBykcCrawler: 北航博雅课程Python爬虫接口](https://github.com/Dr-Bluemond/BuaaBykcCrawler)【PYTHON】~~
-
-- ~~[GitHub - Dr-Bluemond/BykcTelegramBot](https://github.com/Dr-Bluemond/BykcTelegramBot)  【PYTHON】北航博雅课程在TelegramBot平台上实现的小助手。~~
+- [GitHub - Dr-Bluemond/BykcTelegramBot](https://github.com/Dr-Bluemond/BykcTelegramBot)  【PYTHON】北航博雅课程在TelegramBot平台上实现的小助手。
 
 - ~~[GitHub - Errno1024/BUAA-Course-Grab: BUAA Course Grab is intended to be a tool set for BUAA undergraduates to automatically grab or drop courses.](https://github.com/Errno1024/BUAA-Course-Grab) 【PYTHON】集成博雅课程和教务选课系统功能，提供丰富的功能和完整的使用文档~~
 
@@ -124,7 +120,7 @@
 
 - [GitHub - dhy2000/CG-Submit](https://github.com/dhy2000/CG-Submit)【PYTHON】希冀 (CourseGrading) 平台作业文件提交工具，适用于六系编译技术实验与信息大类数据结构
 
-- [GitHub - dhy2000/TimeInput: 实时交互输入辅助工具](https://github.com/dhy2000/TimeInput) 【JAVA】面向对象课程多线程单元实用工具，将带时间戳的输入按以时间戳规定的时间输出。
+- [GitHub - dhy2000/TimeInput: 实时交互输入辅助工具](https://github.com/dhy2000/TimeInput) 【JAVA】面向对象课程多线程单元实用工具，将带时间戳的输入按以时间戳规定的时间输出。
 
 ### 八系工具
 
