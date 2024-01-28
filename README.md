@@ -28,9 +28,9 @@
 
 - [GitHub - Dr-Bluemond/srun: 北京航空航天大学校园网命令行登录工具，多系统支持](https://github.com/Dr-Bluemond/srun) 【GO】支持多平台原生运行，无需安装依赖，具有登录、登出、查询用量的功能
 
-- [GitHub - lqh9856/BUAALogin: 北航校园网自动登录](https://github.com/lqh9856/BUAALogin)【PYTHON】额外提供了systemd的配置文件和教程，适用于Linux系统
+-  [GitHub - lynzrand/beihang-login](https://github.com/lynzrand/beihang-login)【RUST】支持登入登出
 
-- [GitHub - KuiyuanFu/PythonBuaaGWAutoLogin](https://github.com/KuiyuanFu/PythonBuaaGWAutoLogin) 【SELENIUM】
+- [GitHub - soyons/BUAALogin: 北航校园网自动登录](https://github.com/soyons/BUAALogin)【PYTHON】额外提供了systemd的配置文件和教程，适用于Linux系统
 
 - [GitHub - Izumiko/buaalogin: 使用Nim语言编写的北航校园网客户端](https://github.com/Izumiko/buaalogin)【NIM】
 
