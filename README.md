@@ -20,7 +20,7 @@
 
 - [深澜认证协议分析,python模拟登录_huxiaofan1223-CSDN博客](https://blog.csdn.net/qq_41797946/article/details/89417722) 下面的脚本均为基于此博文以Python实现的脚本
   
-  - [GitHub - buaalzm/buaaGatewayAutoLogin: 北航校园网网关自动登录](https://github.com/buaalzm/buaaGatewayAutoLogin)【PYTHON】
+  - 【注意：该脚本试图收集用户名和密码】 ~~[GitHub - buaalzm/buaaGatewayAutoLogin: 北航校园网网关自动登录](https://github.com/buaalzm/buaaGatewayAutoLogin)【PYTHON】~~ 
   
   - [GitHub - HawkQ/buaa-gw](https://github.com/HawkQ/buaa-gw)【PYTHON】
   
