@@ -74,7 +74,7 @@
 
 - [GitHub - lyc8503/EasierConnect](https://github.com/lyc8503/EasierConnect) 【GO】一个命令行版本，不直接代理网络，只开放sock5端口，可以用clash等设置规则只让需要vpn的流量经过。
 - [GitHub - docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) 【DOCKER】将EasyConnect封装在docker中。
-- 提案：将d.buaa.edu.cn封装为http proxy。因为d.buaa.edu.cn虽然仅支持http与https但是相较于EasyConnect它对目标地址没有限制，可以以校内ip访问所有校内外资源。
+- 提案：将d.buaa.edu.cn封装为http proxy。因为d.buaa.edu.cn虽然仅支持http与https但是相较于EasyConnect它对目标地址没有限制，可以以校内ip访问所有校内外资源。[1](https://github.com/ESWZY/webvpn-dlut),[2](https://github.com/lcandy2/webvpn-converter),[3](https://github.com/spencerwooo/bit-webvpn-converter)
 
 ### 博雅系统
 
