@@ -44,9 +44,13 @@
 
 #### 一键评教
 
-- [GitHub - bearbattle/buaa-teacher-evaluation: 北航教务一键评教。](https://github.com/bearbattle/buaa-teacher-evaluation)【PYTHON】
+- ~~[GitHub - bearbattle/buaa-teacher-evaluation: 北航教务一键评教。](https://github.com/bearbattle/buaa-teacher-evaluation)【PYTHON】~~
 
-- [GitHub - APassbyDreg/BUAA_JW_Utils: 北航教务辅助脚本工具集](https://github.com/APassbyDreg/BUAA_JW_Utils)【SELENIUM】
+- ~~[GitHub - APassbyDreg/BUAA_JW_Utils: 北航教务辅助脚本工具集](https://github.com/APassbyDreg/BUAA_JW_Utils)【SELENIUM】~~
+
+- [GitHub - el-ev/BUAA-Teacher-Evaluation：北航教务一键评教](https://github.com/el-ev/BUAA-Teacher-Evaluation)【PYTHON】
+
+- [GitHub - ZenAlexa/BUAA_TeachingEvaluation_2024Winter：BUAA一键多方式综合评教](https://github.com/ZenAlexa/BUAA_TeachingEvaluation_2024Winter)【PYTHON】
 
 #### 查询成绩
 
