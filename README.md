@@ -134,6 +134,8 @@
 
 - [GitHub - dhy2000/TimeInput: 实时交互输入辅助工具](https://github.com/dhy2000/TimeInput) 【JAVA】面向对象课程多线程单元实用工具，将带时间戳的输入按以时间戳规定的时间输出。
 
+- [GitHub - TrickEye/can_I_Graduate: 我能毕业嘛](https://github.com/TrickEye/can_I_Graduate) 【JAVASCRIPT】2020级毕业学分计算（[网页版](https://trickeye.github.io/can_I_Graduate/)）
+
 ### 八系工具
 
 - [GitHub - HoBeedzc/CreditCount: 八系一般专业课学分核算工具，助你顺利毕业。](https://github.com/HoBeedzc/CreditCount) 【JAVASCRIPT】八系一般专业课学分核算工具。可以直接访问网页版 [学分核算](https://cc.hobeedzc.cn) 
