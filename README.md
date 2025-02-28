@@ -100,6 +100,7 @@
 
 - [GitHub - Apodead/BuaaAmmeterBot: 北航电表查询 Telegram Bot](https://github.com/Apodead/BuaaAmmeterBot)【PYTHON】
 - [GitHub - LaciliaExe/BUAA-ECC: BUAA electricity charge checker on Android / 北航电费查询器（安卓平台）](https://github.com/LaciliaExe/BUAA-ECC)【PYTHON&KVLANG】
+- [GitHub - Colorfulshadow/buaa-power-monitor: 北航电量监控与低电量提醒](https://github.com/Colorfulshadow/buaa-power-monitor)【PYTHON】
 
 ### 基物实验
 
