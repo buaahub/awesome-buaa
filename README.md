@@ -142,3 +142,8 @@
 - [GitHub - HoBeedzc/CreditCount: 八系一般专业课学分核算工具，助你顺利毕业。](https://github.com/HoBeedzc/CreditCount) 【JAVASCRIPT】八系一般专业课学分核算工具。可以直接访问网页版 [学分核算](https://cc.hobeedzc.cn) 
 
 - [GitHub - grandchicken/1708SEM_ISIM: 八系信管专业课程攻略](https://github.com/grandchicken/1708SEM_ISIM) 【RICHTEXT】八系信管专业课程资料整理，持续更新ing...
+- 
+
+### 智慧校车
+
+- [GitHub - zeroduhyy/school_buss_ticket](https://github.com/zeroduhyy/school_buss_ticket) 【SELENIUM】半自动在线抢校车票
