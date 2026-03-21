@@ -34,6 +34,8 @@
 
 - [GitHub - Izumiko/buaalogin: 使用Nim语言编写的北航校园网客户端](https://github.com/Izumiko/buaalogin)【NIM】
 
+- [GitHub - BUAASubnet/srun: 基于Srun深澜认证的轻量级rust客户端](https://github.com/BUAASubnet/srun) 【RUST】支持登入登出、多号多拨、自定义DNS解析(用于DNS故障时)、systemd的配置文件和教程，适用于全平台
+
 ### 教务系统
 
 #### 选课脚本
