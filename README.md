@@ -36,6 +36,10 @@
 
 - [GitHub - BUAASubnet/srun: 基于Srun深澜认证的轻量级rust客户端](https://github.com/BUAASubnet/srun) 【RUST】支持登入登出、多号多拨、自定义DNS解析(用于DNS故障时)、systemd的配置文件和教程，适用于全平台
 
+### 智慧北航
+
+- [GitHub - BUAASubnet/UBAA: 更好的智慧北航. Make BUAA Great Again!](https://github.com/BUAASubnet/UBAA)【KOTLIN】智慧北航 Remake，基于 Kotlin Multiplatform 和 Compose Multiplatform 构建的现代化C/S架构跨平台应用
+
 ### 教务系统
 
 #### 选课脚本
