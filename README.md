@@ -74,6 +74,10 @@
 
 - [GitHub - SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend: 北航教务小助手-后端（Python Web、爬虫）](https://github.com/SE2020-TopUnderstanding/BUAA-Campus-Tools-Backend) 【DJANGO】软工项目，提供许多针对教务网站的工具
 
+### 课程打卡
+
+- [GitHub - Fucov/BUAASignTool: 北航课程打卡系统](https://github.com/Fucov/BUAASignTool) 【PYTHON】极简主义桌面端课程辅助工具，支持查看每周课表、课程状态追踪，以及校内/校外（WebVPN）环境下的一键自动打卡功能
+
 ### VPN工具
 
 北航客户端VPN使用深信服EasyConnect，可能会在电脑中启动一个被称作“EasyMonitor”的进程，或有收集个人隐私的嫌疑。可以使用以下软件替代。
@@ -122,6 +126,8 @@
 ### 北航网盘
 
 - [GitHub - xdedss/dist_bhpan: 北航网盘命令行工具](https://github.com/xdedss/dist_bhpan) 【PYTHON】
+
+- [GitHub - Fucov/PanCLI: 北航网盘沉浸式REPL命令行工具](https://github.com/Fucov/PanCLI) 【PYTHON】基于 AnyShare 7 架构，提供带状态保持（CWD）的沉浸式交互式 REPL 终端，支持 `cd`/`ls`/`tree`/`rm`/`mv`/`cp`/`upload`/`download` 等 Unix 风格命令，由 `xdedss/dist_bhpan` 演进而来
 
 ### 三系工具
 
