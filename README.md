@@ -36,6 +36,10 @@
 
 - [GitHub - BUAASubnet/srun: 基于Srun深澜认证的轻量级rust客户端](https://github.com/BUAASubnet/srun) 【RUST】支持登入登出、多号多拨、自定义DNS解析(用于DNS故障时)、systemd的配置文件和教程，适用于全平台
 
+### SPOC课程中心
+
+- [GitHub - peter-erer/buaa-spoc-helper: 智学北航学习助手](https://github.com/peter-erer/buaa-spoc-helper) 【JAVASCRIPT】下载字幕文件以及任何课程的视频以及PPT，还有SPOC刷课
+
 ### 智慧北航
 
 - [GitHub - BUAASubnet/UBAA: 更好的智慧北航. Make BUAA Great Again!](https://github.com/BUAASubnet/UBAA)【KOTLIN】智慧北航 Remake，基于 Kotlin Multiplatform 和 Compose Multiplatform 构建的现代化C/S架构跨平台应用
