@@ -38,7 +38,7 @@
 
 ### SPOC课程中心
 
-- [GitHub - peter-erer/buaa-spoc-helper: 智学北航学习助手](https://github.com/peter-erer/buaa-spoc-helper) 【JS】下载字幕文件以及任何课程的视频以及PPT，还有SPOC刷课
+- [GitHub - peter-erer/buaa-spoc-helper: 智学北航学习助手](https://github.com/peter-erer/buaa-spoc-helper) 【JAVASCRIPT】下载字幕文件以及任何课程的视频以及PPT，还有SPOC刷课
 
 ### 教务系统
 
