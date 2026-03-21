@@ -40,6 +40,10 @@
 
 - [GitHub - peter-erer/buaa-spoc-helper: 智学北航学习助手](https://github.com/peter-erer/buaa-spoc-helper) 【JAVASCRIPT】下载字幕文件以及任何课程的视频以及PPT，还有SPOC刷课
 
+### 智慧北航
+
+- [GitHub - BUAASubnet/UBAA: 更好的智慧北航. Make BUAA Great Again!](https://github.com/BUAASubnet/UBAA)【KOTLIN】智慧北航 Remake，基于 Kotlin Multiplatform 和 Compose Multiplatform 构建的现代化C/S架构跨平台应用
+
 ### 教务系统
 
 #### 选课脚本
