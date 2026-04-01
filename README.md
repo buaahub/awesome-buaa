@@ -36,6 +36,8 @@
 
 - [GitHub - BUAASubnet/srun: 基于Srun深澜认证的轻量级rust客户端](https://github.com/BUAASubnet/srun) 【RUST】支持登入登出、多号多拨、自定义DNS解析(用于DNS故障时)、systemd的配置文件和教程，适用于全平台
 
+- [GitHub - ChiamZhang/SRun-Network-Auto-Login](https://github.com/ChiamZhang/SRun-Network-Auto-Login)【BASH】多种功能多模式的深蓝认证工具，支持登录/注销、按需补登、定时保活，并可跨学校适配 BUAA、UCAS、BIT 等 SRun 系统
+
 ### SPOC课程中心
 
 - [GitHub - peter-erer/buaa-spoc-helper: 智学北航学习助手](https://github.com/peter-erer/buaa-spoc-helper) 【JAVASCRIPT】下载字幕文件以及任何课程的视频以及PPT，还有SPOC刷课
