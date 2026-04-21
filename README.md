@@ -88,7 +88,7 @@
 
 - [GitHub - Fucov/BUAASignTool: 北航课程打卡系统](https://github.com/Fucov/BUAASignTool) 【PYTHON】极简主义桌面端课程辅助工具，支持查看每周课表、课程状态追踪，以及校内/校外（WebVPN）环境下的一键自动打卡功能
 
-- [GitHub - singledog957/duaa: A derivative of duaa](https://github.com/singledog957/duaa) 【PYTHON / SHELL】 课程辅助工具，支持服务器自部署托管/自动打卡/校内外打卡。
+- [GitHub - singledog957/duaa: A derivative of duaa](https://github.com/singledog957/duaa) 【RUST / SHELL】 课程辅助工具，支持服务器自部署托管/自动打卡/校内外打卡。
 
 ### VPN工具
 
