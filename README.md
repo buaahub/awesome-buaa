@@ -90,6 +90,10 @@
 
 - [GitHub - singledog957/duaa: A derivative of duaa](https://github.com/singledog957/duaa) 【RUST / SHELL】 课程辅助工具，支持服务器自部署托管/自动打卡/校内外打卡。
 
+- [Github - zeroduhyy/iclass_buaa](https://github.com/zeroduhyy/iclass_buaa) 【TypeScript】北航课程签到系统, 基于 WebUI, 支持二维码/直接签到, VPN 登陆
+
+- [Github - Yiki21/iclass_buaa_tui](https://github.com/Yiki21/iclass_buaa_tui) 【Rust】北航课程签到系统, TUI & CLI 版本, 并且支持博雅课程, 自动化签到
+
 ### VPN工具
 
 北航客户端VPN使用深信服EasyConnect，可能会在电脑中启动一个被称作“EasyMonitor”的进程，或有收集个人隐私的嫌疑。可以使用以下软件替代。
