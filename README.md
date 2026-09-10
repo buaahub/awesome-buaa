@@ -110,6 +110,8 @@
 - 提案：将d.buaa.edu.cn封装为http proxy。因为d.buaa.edu.cn虽然仅支持http与https但是相较于EasyConnect它对目标地址没有限制，可以以校内ip访问所有校内外资源。[1](https://github.com/ESWZY/webvpn-dlut),[2](https://github.com/lcandy2/webvpn-converter),[3](https://github.com/spencerwooo/bit-webvpn-converter)
 - 另一条路：【可能违反相关规定】自己在学校里有主机的可以使用[Easytier](https://github.com/EasyTier/EasyTier)进行打洞，大部分情况下可以P2P直连，再在校内主机上开代理，此方法稳定性可能比官方VPN高。[Easytier](https://github.com/EasyTier/EasyTier)也是北航的学长开发的。
 
+- 【中央财经大学】 [Github - docker-motionpro-cufe](https://github.com/lihaotong0712/docker-motionpro-cufe) 【DOCKER】适用于北航计算机-中财金融联培学生，将中财的 Array MotionPro 封装在 docker 中。
+
 ### 博雅系统
 
 - [GitHub - Dr-Bluemond/BykcTelegramBot](https://github.com/Dr-Bluemond/BykcTelegramBot)  【PYTHON】北航博雅课程在TelegramBot平台上实现的小助手。
